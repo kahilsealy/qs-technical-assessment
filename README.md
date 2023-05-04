@@ -21,5 +21,5 @@ As the bars are 24 hr and have consisent hourly traffic I have grouped the data 
 While the focus is on the glass stocks at each bar I have also included the amount of money transacted for each drink to provide further context on the glass shortage problem.
 
 ## Challenges
-This was my first time using github so I do not expect my practices to be optimal or best standard.
+This was my first time using github so it is likely not done to best practice.
 
